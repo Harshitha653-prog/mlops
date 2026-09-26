@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "model_type": "LinearRegression",
+  "feature": "x4",
+  "r2": 0.27498888457029635,
+  "coef": [
+    -1.2244566401591508
+  ],
+  "intercept": 8.750705153951518
+}

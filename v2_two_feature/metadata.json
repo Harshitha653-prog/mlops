@@ -1,0 +1,15 @@
+{
+  "version": "v2",
+  "model_type": "LinearRegression",
+  "features": [
+    "x3",
+    "x4"
+  ],
+  "r2": 0.5300160790946037,
+  "coef": [
+    0.582567699440021,
+    -1.3796075949647943
+  ],
+  "intercept": 4.895498713215326,
+  "current": true
+}
